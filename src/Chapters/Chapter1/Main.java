@@ -54,14 +54,21 @@ public class Main {
         System.out.println("\n\n");
         System.out.println("CHAPTER: 1.6");
 
-        int i;
+
+
         int old = 0;
-        for (i = 1; i < 10 ; i++) {
-            System.out.println(i);
+        for (int i = 1; i < 10 ; i++) {
             old +=i;
 
+            if (i == 9){
+                System.out.print(i);
+            }
+            else {
+                System.out.print(i + "+");
+            }
+
         }
-        System.out.println(old);
+        System.out.println(" = " +old);
 
 
     }
