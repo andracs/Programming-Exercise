@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e9557e9-59be-415e-8a4c-3ac066d90a05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +45,7 @@
     <session id="-2045151138">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -54,11 +53,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1226" />
+          <entry key="txt" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1226" />
+          <entry key="PLAIN_TEXT" value="49" />
         </counts>
       </usages-collector>
     </session>
@@ -77,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="105" column="37" lean-forward="true" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+            <state relative-caret-position="364">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
             </state>
           </provider>
         </entry>
@@ -167,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537721689582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537721750554" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -243,7 +244,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537433122139</updated>
       <workItem from="1537433125560" duration="11886000" />
-      <workItem from="1537713460982" duration="4914000" />
+      <workItem from="1537713460982" duration="4979000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 2">
       <created>1537444860988</created>
@@ -252,15 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537444860988</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Made some assignments in chapter 1">
+      <created>1537721725625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537721725625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16800000" />
+    <option name="totallyTimeSpent" value="16865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -272,7 +279,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,7 +308,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 2" />
+    <MESSAGE value="Made some assignments in chapter 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made some assignments in chapter 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -320,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="105" column="37" lean-forward="true" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+        <state relative-caret-position="364">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
