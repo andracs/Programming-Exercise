@@ -139,6 +139,7 @@ public class Main {
 
         }
 
+
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.12");
         System.out.println("Average speed in kilometers");
