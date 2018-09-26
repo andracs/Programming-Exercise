@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9e9557e9-59be-415e-8a4c-3ac066d90a05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter2/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,52 +56,34 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="4912" />
-          <entry key="txt" value="63" />
+          <entry key="txt" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4912" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="PLAIN_TEXT" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="139" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="222" column="43" lean-forward="true" selection-start-line="222" selection-start-column="43" selection-end-line="222" selection-end-column="43" />
+            <state relative-caret-position="282">
+              <caret line="221" column="53" lean-forward="true" selection-start-line="221" selection-start-column="53" selection-end-line="221" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -173,6 +154,13 @@
               <item name="Chapters" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Programming-Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming-Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapters" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537998685834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537998829956" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -260,7 +248,7 @@
       <workItem from="1537433125560" duration="11886000" />
       <workItem from="1537713460982" duration="4979000" />
       <workItem from="1537866414885" duration="8000" />
-      <workItem from="1537984803124" duration="13870000" />
+      <workItem from="1537984803124" duration="14014000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 2">
       <created>1537444860988</created>
@@ -283,17 +271,24 @@
       <option name="project" value="LOCAL" />
       <updated>1537988506772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made some Exercises (Chapter 2)">
+      <created>1537998751598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537998751598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30743000" />
+    <option name="totallyTimeSpent" value="30887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -303,7 +298,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,16 +329,10 @@
     <MESSAGE value="chapter 2" />
     <MESSAGE value="Made some assignments in chapter 1" />
     <MESSAGE value="Chapter 1 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Done" />
+    <MESSAGE value="Made some Exercises (Chapter 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made some Exercises (Chapter 2)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -351,10 +340,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="222" column="43" lean-forward="true" selection-start-line="222" selection-start-column="43" selection-end-line="222" selection-end-column="43" />
+        <state relative-caret-position="282">
+          <caret line="221" column="53" lean-forward="true" selection-start-line="221" selection-start-column="53" selection-end-line="221" selection-end-column="53" />
         </state>
       </provider>
     </entry>
