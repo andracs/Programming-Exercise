@@ -108,6 +108,62 @@ public class Main {
         System.out.println("Area of rectangle: " + rectangleArea);
 
 
+        // Give me some space and title
+        System.out.println("\n\nCHAPTER: 1.10");
+        double miles = 14/1.6;
+        System.out.printf("Avg. speed in mph: %.2f%n", (miles/45.5)*60);
 
+
+        // Give me some space and title
+        System.out.println("\n\nCHAPTER: 1.11");
+
+        double currentPopulation    = 312032486;
+        
+        double secondsPerDay        = 3600*24;
+        double birthPerDay          = secondsPerDay/7;
+        double deathsPerDay         = secondsPerDay/13;
+        double immigrantsPerDay     = secondsPerDay/45;
+
+        double daysPerYear          = 365;
+        double birthsPerYear        = birthPerDay*daysPerYear;
+        double deathsPerYear        = deathsPerDay*daysPerYear;
+        double immigrantsPerYear    = immigrantsPerDay*daysPerYear;
+
+        for (int i = 1; i <= 5; i++) {
+            double births = birthsPerYear*i;
+            double deaths = deathsPerYear*i;
+            double immigrants = immigrantsPerYear*i;
+
+            double peopleOnEarth = currentPopulation + births + immigrants - deaths;
+            System.out.printf("Year: %d \tPopulation: %.0f%n", i, peopleOnEarth);
+
+        }
+
+        // Give me some space and title
+        System.out.println("\n\nCHAPTER: 1.12");
+        System.out.println("Average speed in kilometers");
+        double km = 24*1.6;
+        int hours = 1;
+        int minutes = 40;
+        int seconds = 35;
+        double timeSpentInSec = hours*3600 + minutes*60 + seconds;
+        double avgSpeedKmh = (km/timeSpentInSec) *3600;
+        System.out.printf("Avg. speed in mph: %.2f%n", avgSpeedKmh);
+
+
+        // Give me some space and title
+        System.out.println("\n\nCHAPTER: 1.13");
+        System.out.println("Algebra");
+        double a; double b; double c; double d; double e; double f;
+        a = 3.4;
+        b = 50.2;
+        c = 2.1;
+        d = 0.55;
+        e = 44.5;
+        f = 5.9;
+        double x = (e*d - b*f) / (a*d - b*c);
+        double y = (a*f - e*c) / (a*d - b*c);
+
+        System.out.printf("x=%f, y=%f\n", x, y );
     }
 }
