@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-/*
+
         // Give me some space
         System.out.println("\n\n");
         System.out.println("CHAPTER: 2.1");
@@ -58,8 +58,8 @@ public class Main {
         String[] subtotal_gratuity = input.nextLine().split(" ");
         double subtotal = Double.parseDouble(subtotal_gratuity[0]);
         double gratuity = (Double.parseDouble(subtotal_gratuity[1]) / 100) * subtotal;
-        double total = subtotal + gratuity;
-        System.out.printf("The gratuity is $%.1f and total is $%.1f ", gratuity, total);
+        double totalFinancial = subtotal + gratuity;
+        System.out.printf("The gratuity is $%.1f and total is $%.1f ", gratuity, totalFinancial);
 
 
         // Give me some space
@@ -162,7 +162,7 @@ public class Main {
         input = new Scanner(System.in);
 
         System.out.print("Enter the number of years: ");
-        int years = input.nextInt();
+        int birthYears = input.nextInt();
 
         double currentPopulation    = 312032486;
 
@@ -176,7 +176,7 @@ public class Main {
         double deathsPerYear        = deathsPerDay*daysPerYear;
         double immigrantsPerYear    = immigrantsPerDay*daysPerYear;
 
-        for (int i = 1; i <= years; i++) {
+        for (int i = 1; i <= birthYears; i++) {
             double births = birthsPerYear*i;
             double deaths = deathsPerYear*i;
             double immigrants = immigrantsPerYear*i;
@@ -192,10 +192,10 @@ public class Main {
 
         System.out.print("Enter speed and acceleration: ");
         double speed = input.nextDouble();
-        double acceleration = input.nextDouble();
-        double length = Math.pow(speed, 2) / (2 * acceleration);
+        double accelerationSpeed = input.nextDouble();
+        double lengthSpeed = Math.pow(speed, 2) / (2 * accelerationSpeed);
 
-        System.out.println("The minimum runway length for this airplane is " + length);
+        System.out.println("The minimum runway length for this airplane is " + lengthSpeed);
 
         final double MONTHLY_INTEREST_RATE = 0.00417;
 
@@ -231,7 +231,7 @@ public class Main {
 
 
 
-*/
+
 
 
     }
