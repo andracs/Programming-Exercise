@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        /*
+/*
         // Give me some space
         System.out.println("\n\n");
         System.out.println("CHAPTER: 2.1");
@@ -183,7 +183,6 @@ public class Main {
 
             double peopleOnEarth = currentPopulation + births + immigrants - deaths;
             System.out.printf("Year: %d \tPopulation: %.0f%n", i, peopleOnEarth);
-
         }
 
         // Give me some space
@@ -208,7 +207,7 @@ public class Main {
             total = (savingAmount + total) * (1 + MONTHLY_INTEREST_RATE);
             System.out.println("Month: " + i + "\tSavings: " + total);
         }
-*/
+
 
 
         // Give me some space
@@ -232,7 +231,7 @@ public class Main {
 
 
 
-
+*/
 
 
     }
