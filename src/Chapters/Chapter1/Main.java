@@ -7,17 +7,24 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // 1.1
+        // OPGAVE 1.1
+        //=========================================
         System.out.println("CHAPTER: 1.1");
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Computer Science");
         System.out.println("Programming is fun");
 
+
+        // OPGAVE 1.2
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.2");
         String tekst = "Welcome to Java\n";
         System.out.println(tekst+tekst+tekst+tekst+tekst);
 
+
+        // OPGAVE 1.3
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.3");
         System.out.println(""+
@@ -28,6 +35,8 @@ public class Main {
         );
 
 
+        // OPGAVE 1.4
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.4");
 
@@ -39,15 +48,19 @@ public class Main {
             System.out.println(x + " \t " + Math.pow(x, 2) + " \t " + Math.pow(x, 3) + " \t " + Math.pow(x, 4));
         }
 
+
+        // OPGAVE 1.5
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.5");
         System.out.println("Trying to make a calculation");
         System.out.println((9.5 * 4.5 - 2.5 * 3 )/(45.5 - 3.5));
 
 
+        // OPGAVE 1.6
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.6");
-
 
         int old = 0;
         for (int i = 1; i < 10 ; i++) {
@@ -64,13 +77,13 @@ public class Main {
         }
 
 
-
+        // OPGAVE 1.7
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.7");
         System.out.println("Calculating pi...\nOpgave 1.7");
         double pi = 4 * (1.0 - (1.0/3 + 1.0/5 - 1.0/7 + 1.0/9 - 1.0/11));
         System.out.println(pi);
-
 
         System.out.println("\nThe best and most tastefull pi in a for loop");
         double calculatePi = 0;
@@ -88,6 +101,8 @@ public class Main {
         System.out.println("\nJava's pi calculation: " + Math.PI);
 
 
+        // OPGAVE 1.8
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.8");
         System.out.println("Area and perimeter of circle");
@@ -99,6 +114,8 @@ public class Main {
         System.out.println("Area: " + circleArea);
 
 
+        // OPGAVE 1.9
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.9");
         System.out.println("Area and perimeter of a rectangle");
@@ -108,12 +125,16 @@ public class Main {
         System.out.println("Area of rectangle: " + rectangleArea);
 
 
+        // OPGAVE 1.10
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.10");
         double miles = 14/1.6;
         System.out.printf("Avg. speed in mph: %.2f%n", (miles/45.5)*60);
 
 
+        // OPGAVE 1.11
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.11");
 
@@ -140,6 +161,8 @@ public class Main {
         }
 
 
+        // OPGAVE 1.12
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.12");
         System.out.println("Average speed in kilometers");
@@ -152,6 +175,8 @@ public class Main {
         System.out.printf("Avg. speed in mph: %.2f%n", avgSpeedKmh);
 
 
+        // OPGAVE 1.13
+        //=========================================
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.13");
         System.out.println("Algebra");
