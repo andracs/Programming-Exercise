@@ -58,7 +58,7 @@ public class Main {
 
 
         myWife.setAge(20);
-        myWife.setName("Daniella");
+        myWife.setName("My Wife");
         myWife.setCrazy(false);
         myWife.setWeight(53);
         myWife.setGoodCook(true);
