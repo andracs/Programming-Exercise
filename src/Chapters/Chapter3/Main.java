@@ -6,33 +6,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Wife Daniella = new Wife();
+        Wife myWife = new Wife();
         Scanner input = new Scanner(System.in);
-/*
-        Daniella.setAge(20);
-        Daniella.setName("Daniella");
-        Daniella.setCrazy(false);
-        Daniella.setWeight(53);
-        Daniella.setGoodCook(true);
-        Daniella.setPretty(true);
 
-        if (Daniella.getAge() > 50){
-            System.out.println("LEAVE!");
-        }
-        if (Daniella.getAge() > 18 && Daniella.getAge() < 49){
-            System.out.println(Daniella.getAge() + " years seems reasonable");
-            if (Daniella.isPretty == true && Daniella.isGoodCook() == true) {
-                System.out.println("Perfect.. Seems good for now. ");
-                System.out.println(Daniella.getName() + " can cook... ");
 
-            if (Daniella.isCrazy == true && Daniella.isGoodCook() == false && Daniella.isPretty == true){
-                System.out.println("Be careful... Close one... ");
-            }
 
-            }
-
-        }
-*/
         // Give me some space
         System.out.println("\n\n");
         System.out.println("CHAPTER: 3.24");
@@ -77,9 +55,32 @@ public class Main {
         }
 
 
-        // Give me some space
-        System.out.println("\n\n");
-        System.out.println("CHAPTER: 3.26");
+
+
+        myWife.setAge(20);
+        myWife.setName("Daniella");
+        myWife.setCrazy(false);
+        myWife.setWeight(53);
+        myWife.setGoodCook(true);
+        myWife.setPretty(true);
+
+        if (myWife.getAge() > 50){
+            System.out.println("LEAVE!");
+        }
+        if (myWife.getAge() > 18 && myWife.getAge() < 49){
+            System.out.println(myWife.getAge() + " years seems reasonable");
+            if (myWife.isPretty == true && myWife.isGoodCook() == true) {
+                System.out.println("Perfect.. Seems good for now. ");
+                System.out.println(myWife.getName() + " can cook... ");
+
+            if (myWife.isCrazy == true && myWife.isGoodCook() == false && myWife.isPretty == true){
+                System.out.println("Be careful... Close one... ");
+            }
+
+            }
+
+        }
+
 
 
     }
