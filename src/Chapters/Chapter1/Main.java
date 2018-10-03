@@ -180,7 +180,7 @@ public class Main {
         // Give me some space and title
         System.out.println("\n\nCHAPTER: 1.13");
         System.out.println("Algebra");
-        double a; double b; double c; double d; double e; double f;
+        double a, b, c, d, e, f;
         a = 3.4;
         b = 50.2;
         c = 2.1;
