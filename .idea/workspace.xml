@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e9557e9-59be-415e-8a4c-3ac066d90a05" name="Default Changelist" comment="Chapter 2 Done">
-      <change afterPath="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapters/Chapter7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter3/Exercise_03_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter3/Exercise_03_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,14 +99,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="2556" />
+          <entry key="java" value="2724" />
           <entry key="snippet" value="11" />
           <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2556" />
+          <entry key="JAVA" value="2724" />
           <entry key="PLAIN_TEXT" value="53" />
           <entry key="Scratch" value="11" />
         </counts>
@@ -133,8 +127,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="272">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,9 +167,9 @@
         <option value="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" />
         <option value="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" />
         <option value="$PROJECT_DIR$/src/Chapters/Chapter7/Exercise_07_01.java" />
         <option value="$PROJECT_DIR$/src/Chapters/Chapter7/Main.java" />
+        <option value="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" />
       </list>
     </option>
   </component>
@@ -264,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538651690043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538652128776" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -279,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Exercise_06_01">
     <configuration name="Exercise_03_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapters.Chapter3.Exercise_03_08" />
       <module name="Programming Exercise" />
@@ -293,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter2.Main" />
+    <configuration name="Exercise_06_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter6.Exercise_06_01" />
       <module name="Programming Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter2.*" />
+          <option name="PATTERN" value="Chapters.Chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter3.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter2.Main" />
       <module name="Programming Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter3.*" />
+          <option name="PATTERN" value="Chapters.Chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,18 +345,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Exercise_03_08" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Exercise_06_01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_06_01" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise_03_08" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +377,7 @@
       <workItem from="1538030351023" duration="16086000" />
       <workItem from="1538059512521" duration="8489000" />
       <workItem from="1538634997928" duration="6239000" />
-      <workItem from="1538650338700" duration="1335000" />
+      <workItem from="1538650338700" duration="1771000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 2">
       <created>1537444860988</created>
@@ -420,13 +418,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63036000" />
+    <option name="totallyTimeSpent" value="63472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -436,7 +434,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,8 +573,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="272">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
