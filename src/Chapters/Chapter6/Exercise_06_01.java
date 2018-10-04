@@ -2,6 +2,9 @@ package Chapters.Chapter6;
 
 public class Exercise_06_01 {
 
+    /** @params - Tager imod et helvtal
+    *   BEregner pentagonalen som anført på https://en.wikipedia.org/wiki/Pentagonal_number
+    */ 
     private static int getPentagonalNumber(int n){
         return n * (3 * n - 1) / 2;
 
