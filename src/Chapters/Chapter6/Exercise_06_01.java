@@ -4,6 +4,7 @@ public class Exercise_06_01 {
 
     private static int getPentagonalNumber(int n){
         return n * (3 * n - 1) / 2;
+
     }
 
     public static void main(String[] args) {
