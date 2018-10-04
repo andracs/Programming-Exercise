@@ -14,6 +14,7 @@ public class Exercise_03_08 {
 
         int iArr[] = {number1, number2, number3};
 
+
         System.out.println("You entered this order: ");
         for (int i : iArr){
             System.out.print(i + " ");

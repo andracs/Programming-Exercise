@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e9557e9-59be-415e-8a4c-3ac066d90a05" name="Default Changelist" comment="Chapter 2 Done">
+      <change afterPath="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapters/Chapter7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter3/Exercise_03_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Chapters/Chapter3/Exercise_03_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Exercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming Exercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,33 +84,36 @@
     <session id="-1313462304">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.64" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="16" />
           <entry key="snippet" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="16" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1936" />
+          <entry key="dummy" value="5" />
+          <entry key="java" value="2556" />
           <entry key="snippet" value="11" />
           <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1936" />
-          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="JAVA" value="2556" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="Scratch" value="11" />
         </counts>
       </usages-collector>
@@ -113,57 +121,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter7/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="113" column="37" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter4/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="81" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Wife.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -196,6 +167,11 @@
         <option value="$PROJECT_DIR$/src/Chapters/Chapter3/Main.java" />
         <option value="$PROJECT_DIR$/src/Chapters/Chapter4/Main.java" />
         <option value="$PROJECT_DIR$/src/Chapters/Chapter2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java" />
+        <option value="$PROJECT_DIR$/src/Chapters/Chapter7/Exercise_07_01.java" />
+        <option value="$PROJECT_DIR$/src/Chapters/Chapter7/Main.java" />
       </list>
     </option>
   </component>
@@ -206,10 +182,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2003" />
-    <option name="y" value="-8" />
-    <option name="width" value="1729" />
-    <option name="height" value="778" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -217,7 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,18 +239,32 @@
               <item name="Chapters" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Programming-Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming-Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapters" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming-Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming-Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapters" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538052393563" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538651690043" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -290,13 +279,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exercise_03_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter3.Exercise_03_08" />
       <module name="Programming Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter1.*" />
+          <option name="PATTERN" value="Chapters.Chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,30 +332,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter7.Main" />
       <module name="Programming Exercise" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Exercise_03_08" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exercise_03_08" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +378,8 @@
       <workItem from="1537984803124" duration="14014000" />
       <workItem from="1538030351023" duration="16086000" />
       <workItem from="1538059512521" duration="8489000" />
+      <workItem from="1538634997928" duration="6239000" />
+      <workItem from="1538650338700" duration="1335000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 2">
       <created>1537444860988</created>
@@ -426,13 +420,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55462000" />
+    <option name="totallyTimeSpent" value="63036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,7 +436,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,7 +445,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3264642" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3264642" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -480,18 +474,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 Done" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="497">
+          <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
-    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter4/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="1921">
+          <caret line="113" column="37" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter4/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="81" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -509,27 +524,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="81" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="113" column="37" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="37" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter3/Exercise_03_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapters/Chapter6/Exercise_06_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
